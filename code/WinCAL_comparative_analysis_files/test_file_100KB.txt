@@ -1,0 +1,645 @@
+Human
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+This article is about modern humans. For other human species, see Homo. For other uses, see Human (disambiguation).
+"Homo sapiens" redirects here. For other uses, see Homo sapiens (disambiguation).
+Page semi-protected
+
+Human[1]
+Temporal range: 0.195–0 Ma
+Pre?
+?
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+?
+Pleistocene – Recent
+Humans from Southeast Asia
+Conservation status
+
+Least Concern (IUCN 3.1)[2]
+Scientific classification e
+Kingdom: 	Animalia
+Phylum: 	Chordata
+Class: 	Mammalia
+Order: 	Primates
+Family: 	Hominidae
+Tribe: 	Hominini
+Genus: 	Homo
+Species: 	H. sapiens
+Binomial name
+Homo sapiens
+Linnaeus, 1758
+Subspecies
+
+†Homo sapiens idaltu White et al., 2003
+Homo sapiens sapiens
+Range of Homo sapiens (green)
+Synonyms
+Species synonymy[1][show]
+
+Humans (known taxonomically as Homo sapiens,[3][4] Latin for "wise man" or "knowing man")[5] are the only living species in the Homo genus. Anatomically modern humans originated in Africa about 200,000 years ago, reaching full behavioral modernity around 50,000 years ago.[6]
+
+Humans have a highly developed brain and are capable of abstract reasoning, language, introspection, and problem solving. This mental capability, combined with an erect body carriage that frees the hands for manipulating objects, has allowed humans to make far greater use of tools than any other living species on Earth. Other higher-level thought processes of humans, such as self-awareness, rationality, and sapience,[7][8][9] are considered to be defining features of what constitutes a "person".[10]
+
+Humans are uniquely adept at utilizing systems of communication for self-expression, the exchange of ideas, and organization. Humans create complex social structures composed of many cooperating and competing groups, from families and kinship networks, to nations. Social interactions between humans have established an extremely wide variety of values, social norms, and rituals, which together form the basis of human society. With individuals widespread in every continent except Antarctica, humans are a cosmopolitan species. As of November 2011, the human population was estimated by the United Nations Population Division to be about 7 billion,[11] and by the United States Census Bureau to be about 6.97 billion.[12]
+
+Humans are noted for their desire to understand and influence their environment, seeking to explain and manipulate phenomena through science, philosophy, mythology, and religion. This natural curiosity has led to the development of advanced tools and skills, which are passed down culturally; humans are the only extant species known to build fires and cook their food, as well as the only known species to clothe themselves, and create and use numerous other technologies and arts. The study of humans is the scientific discipline of anthropology.
+Contents
+
+    1 Etymology
+    2 History
+        2.1 Evolution
+        2.2 Paleolithic
+        2.3 Transition to civilization
+    3 Habitat and population
+    4 Biology
+        4.1 Anatomy
+        4.2 Physiology
+        4.3 Genetics
+        4.4 Life cycle
+        4.5 Diet
+        4.6 Sleep
+        4.7 Biological variation
+            4.7.1 Race
+    5 Psychology
+        5.1 Consciousness and thought
+        5.2 Motivation and emotion
+    6 Society and culture
+        6.1 Ethnicity
+        6.2 Sexuality and love
+        6.3 Gender roles
+        6.4 Society, government, and politics
+        6.5 Trade and economics
+        6.6 War
+        6.7 Material culture and technology
+        6.8 Clothing, adornments, hair trimming, and body modifications
+        6.9 Language
+        6.10 Religion and spirituality
+        6.11 Philosophy and self-reflection
+        6.12 Science and mathematics
+        6.13 Art, music, and literature
+    7 See also
+    8 References
+    9 Further reading
+    10 External links
+
+Etymology
+Further information: Man (word) and List of alternative names for the human species
+
+The English adjective human is a Middle English loanword from Old French humain, ultimately from Latin humanus, the adjective form of homo "man". The word's use as a noun (with a plural: humans) dates to the 16th century.[13] The native English term man can refer to the species generally (a synonym for mankind), and could formerly refer to specific individuals of either sex. The latter use is now obsolete.[14] Generic uses of the term "man" are declining, in favor of reserving it for referring specifically to adult males. The word is from Proto-Germanic *mannaz, from a Proto-Indo-European (PIE) root *man-, a cognate to Sanskrit manu-.[citation needed]
+
+The species binomial Homo sapiens was coined by Carl Linnaeus in his 18th century work Systema Naturae, and he himself is the lectotype specimen.[15] The generic name Homo is a learned 18th century derivation from Latin homo "man", ultimately "earthly being" (Old Latin hemo, a cognate to Old English guma "man", from PIE *d???emon-, meaning 'earth' or 'ground').[16] The species-name sapiens means "wise" or "sapient".
+History
+Evolution
+Main article: Human evolution
+Further information: Anthropology, Homo (genus), and Timeline of human evolution
+Plesiadapis, the earliest known primate
+Craniums
+1. Gorilla 2. Australopithecus 3. Homo erectus 4. Neanderthal (La Chapelle aux Saints) 5. Steinheim Skull 6. Euhominid
+
+Scientific study of human evolution is concerned, primarily, with the development of the genus Homo, but usually involves studying other hominids and hominines as well, such as Australopithecus. "Modern humans" are defined as the Homo sapiens species, of which the only extant subspecies is known as Homo sapiens sapiens. Homo sapiens idaltu (roughly translated as "elder wise human"), the other known subspecies, is now extinct.[17] Homo neanderthalensis, which became extinct 30,000 years ago, has sometimes been classified as a subspecies, "Homo sapiens neanderthalensis"; genetic studies now suggest that the functional DNA of modern humans and Neanderthals diverged 500,000 years ago.[18] More recent genetics suggest that modern humans mated with "at least two groups" of ancient humans: Neanderthals and Denisovans.[19] Nonetheless, the discovered specimens of the Homo rhodesiensis species have been classified by some as a subspecies, but this classification is not widely accepted.
+
+Anatomically modern humans first appear in the fossil record in Africa about 195,000 years ago, and studies of molecular biology give evidence that the approximate time of divergence from the common ancestor of all modern human populations was 200,000 years ago.[20][21][22][23][24] The broad study of African genetic diversity headed by Dr. Sarah Tishkoff found the San people to express the greatest genetic diversity among the 113 distinct populations sampled, making them one of 14 "ancestral population clusters". The research also located the origin of modern human migration in south-western Africa, near the coastal border of Namibia and Angola.[25]
+
+The evolutionary history of primates can be traced back 65 million years. Primates are one of the oldest of all surviving placental mammal groups. The oldest known primate-like mammal species (those of the genus Plesiadapis) come from North America, but inhabited Eurasia and Africa on a wide scale during the tropical conditions of the Paleocene and Eocene. Molecular evidence suggests that the last common ancestor between humans and the remaining great apes diverged 4–8 million years ago.[citation needed]
+
+The orangutans were the first group to split from the line leading to the humans, then gorillas followed by chimpanzees (genus Pan). The functional portion of human DNA is approximately 98.4% identical to that of chimpanzees when comparing single-nucleotide polymorphisms (see human evolutionary genetics). Some studies put that as low as 94%. Therefore, the closest living relatives of humans are gorillas and chimpanzees, as they share a relatively recent common ancestor.[26]
+
+Humans are probably most closely related to two chimpanzee species: the common chimpanzee and the bonobo.[26] Full genome sequencing has resulted in the conclusion that "after 6.5 [million] years of separate evolution, the differences between chimpanzee and human are ten times greater than those between two unrelated people and ten times less than those between rats and mice".[attribution needed] Current estimates of suggested concurrence between functional human and chimpanzee DNA sequences range between 95% and 99%.[27][28][29][30] Early estimates indicated that the human lineage may have diverged from that of chimpanzees about five million years ago, and from that of gorillas about eight million years ago. However, a hominid skull discovered in Chad in 2001, classified as Sahelanthropus tchadensis, is approximately seven million years old, and may be evidence of an earlier divergence.[31]
+
+Human evolution is characterized by a number of important changes—morphological, developmental, physiological, and behavioral—that have taken place since the split between the last common ancestor of humans and chimpanzees. The first major morphological change was the evolution of a bipedal locomotor adaptation from an arboreal or semi-arboreal one,[32] with all its attendant adaptations (a valgus knee, low intermembral index (long legs relative to the arms), reduced upper-body strength).
+
+The human species developed a much larger brain than that of other primates – typically 1,400 cm3 (85 cu in) in modern humans, over twice the size of that of a chimpanzee or gorilla. The pattern of human postnatal brain growth differs from that of other apes (heterochrony), and allows for extended periods of social learning and language acquisition in juvenile humans. Physical anthropologists argue that the differences between the structure of human brains and those of other apes are even more significant than their differences in size.[33][34]
+
+Other significant morphological changes included the evolution of a power and precision grip,[35] a reduced masticatory system, a reduction of the canine tooth, and the descent of the larynx and hyoid bone, making speech possible. An important physiological change in humans was the evolution of hidden estrus, or concealed ovulation, which may have coincided with the evolution of important behavioral changes, such as pair bonding. Another significant behavioral change was the development of material culture, with human-made objects becoming increasingly common and diversified over time. The relationship between all these changes is the subject of ongoing debate.[36][37]
+
+The forces of natural selection have continued to operate on human populations, with evidence that certain regions of the genome display directional selection in the past 15,000 years.[38]
+The hominoids are descendants of a common ancestor.
+Paleolithic
+	This section's factual accuracy may be compromised due to out-of-date information. Please help improve the article by updating it. There may be additional information on the talk page. (May 2012)
+Further information: Recent African Origin, Archaic Homo sapiens, Upper Paleolithic, and Early human migrations
+Artistic expression appeared in the Upper Paleolithic: The Venus of Dolní Vestonice figurine, one of the earliest known depictions of the human body, dates to approximately 29,000–25,000 BP (Gravettian).
+
+Anatomically modern humans evolved from archaic Homo sapiens in Africa in the Middle Paleolithic, about 200,000 years ago. By the beginning of the Upper Paleolithic period (50,000 BP [Before Present]), full behavioral modernity, including language, music and other cultural universals had developed.
+
+The out of Africa migration is estimated to have occurred about 70,000 years BP. Modern humans subsequently spread globally, replacing earlier hominids: they inhabited Eurasia and Oceania by 40,000 years BP, and the Americas at least 14,500 years BP.[39] A popular theory is that they displaced Homo neanderthalensis and other species descended from Homo erectus[40] (which had inhabited Eurasia as early as 2 million years ago) through more successful reproduction and competition for resources.[41] The exact manner or extent of the coexistence and interaction of these species is unknown and continues to be a controversial subject.[42]
+
+Evidence from archaeogenetics accumulating since the 1990s has lent strong support to the "out-of-Africa" scenario, and has marginalized the competing multiregional hypothesis, which proposed that modern humans evolved, at least in part, from independent hominid populations.[43]
+
+Geneticists Lynn Jorde and Henry Harpending of the University of Utah propose that the variation in human DNA is minute compared to that of other species.[44] They also propose that during the Late Pleistocene, the human population was reduced to a small number of breeding pairs – no more than 10,000, and possibly as few as 1,000 – resulting in a very small residual gene pool.[45] Various reasons for this hypothetical bottleneck have been postulated, one being the Toba catastrophe theory.[46]
+Transition to civilization
+Main articles: Neolithic Revolution and Cradle of Civilization
+Further information: History of the world
+The rise of agriculture, and domestication of animals, led to stable human settlements.
+The path followed by humans in the course of history
+
+Until c. 10,000 years ago, most humans lived as hunter-gatherers. They generally lived in small nomadic groups known as band societies. The advent of agriculture prompted the Neolithic Revolution, when access to food surplus led to the formation of permanent human settlements, the domestication of animals and the use of metal tools for the first time in history. Agriculture encouraged trade and cooperation, and led to complex society. Because of the significance of this date for human society, it is the epoch of the Holocene calendar or Human Era.
+
+About 6,000 years ago, the first proto-states developed in Mesopotamia, Egypt's Nile Valley and the Indus Valleys. Military forces were formed for protection, and government bureaucracies for administration. States cooperated and competed for resources, in some cases waging wars. Around 2,000–3,000 years ago, some states, such as Persia, India, China, Rome, and Greece, developed through conquest into the first expansive empires. Ancient Greece was the seminal civilization that laid the foundations of Western culture, being the birthplace of Western philosophy, democracy, major scientific and mathematical advances, the Olympic Games, Western literature and historiography, as well as Western drama, including both tragedy and comedy.[47] Influential religions, such as Judaism, originating in West Asia, and Hinduism, a religious tradition that originated in South Asia, also rose to prominence at this time.
+
+The late Middle Ages saw the rise of revolutionary ideas and technologies. In China, an advanced and urbanized society promoted innovations and sciences, such as printing and seed drilling. In India, major advancements were made in mathematics, philosophy, religion and metallurgy. The Islamic Golden Age saw major scientific advancements in Muslim empires. In Europe, the rediscovery of classical learning and inventions such as the printing press led to the Renaissance in the 14th and 15th centuries. Over the next 500 years, exploration and colonialism brought great parts of the world under European control, leading to later struggles for independence. The Scientific Revolution in the 17th century and the Industrial Revolution in the 18th–19th centuries promoted major innovations in transport, such as the railway and automobile; energy development, such as coal and electricity; and government, such as representative democracy and Communism.
+
+With the advent of the Information Age at the end of the 20th century, modern humans live in a world that has become increasingly globalized and interconnected. As of 2010, almost 2 billion humans are able to communicate with each other via the Internet,[48] and 3.3 billion by mobile phone subscriptions.[49]
+
+Although interconnection between humans has encouraged the growth of science, art, discussion, and technology, it has also led to culture clashes and the development and use of weapons of mass destruction. Human civilization has led to environmental destruction and pollution significantly contributing to the ongoing mass extinction of other forms of life called the holocene extinction event,[50] that may be further accelerated by global warming in the future.[51]
+Habitat and population
+Further information: Human migration, Demography, and World population
+Humans often live in family-based social structures and create artificial shelter.
+
+Early human settlements were dependent on proximity to water and, depending on the lifestyle, other natural resources used for subsistence, such as populations of animal prey for hunting and arable land for growing crops and grazing livestock. But humans have a great capacity for altering their habitats by means of technology, through irrigation, urban planning, construction, transport, manufacturing goods, deforestation and desertification. Deliberate habitat alteration is often done with the goals of increasing material wealth, increasing thermal comfort, improving the amount of food available, improving aesthetics, or improving ease of access to resources or other human settlements. With the advent of large-scale trade and transport infrastructure, proximity to these resources has become unnecessary, and in many places, these factors are no longer a driving force behind the growth and decline of a population. Nonetheless, the manner in which a habitat is altered is often a major determinant in population change.
+
+Technology has allowed humans to colonize all of the continents and adapt to virtually all climates. Within the last century, humans have explored Antarctica, the ocean depths, and outer space, although large-scale colonization of these environments is not yet feasible. With a population of over six billion, humans are among the most numerous of the large mammals. Most humans (61%) live in Asia. The remainder live in the Americas (14%), Africa (14%), Europe (11%), and Oceania (0.5%).[citation needed]
+
+Human habitation within closed ecological systems in hostile environments, such as Antarctica and outer space, is expensive, typically limited in duration, and restricted to scientific, military, or industrial expeditions. Life in space has been very sporadic, with no more than thirteen humans in space at any given time.[52] Between 1969 and 1972, two humans at a time spent brief intervals on the Moon. As of May 2012, no other celestial body has been visited by humans, although there has been a continuous human presence in space since the launch of the initial crew to inhabit the International Space Station on October 31, 2000.[53] However, other celestial bodies have been visited by human-made objects.
+
+Since 1800, the human population has increased from one billion to over six billion.[54] In 2004, some 2.5 billion out of 6.3 billion people (39.7%) lived in urban areas, and this percentage is expected to continue to rise throughout the 21st century. In February 2008, the U.N. estimated that half the world's population will live in urban areas by the end of the year.[55] Problems for humans living in cities include various forms of pollution and crime,[56] especially in inner city and suburban slums.
+
+Humans have had a dramatic effect on the environment. As humans are rarely preyed upon, they have been described as superpredators.[57] Currently, through land development, combustion of fossil fuels, and pollution, humans are thought to be the main contributor to global climate change.[58] If this continues at its current rate it is predicted that it will wipe out half of all species over the next century.[59][60]
+See also: City, Town, Nomad, Camping, Farm, House, Watercraft, Infrastructure, Architecture, Building, and Engineering
+Biology
+Main article: Human biology
+Anatomy
+Main article: Human anatomy
+Further information: Human physical appearance and Anatomically modern humans
+Basic anatomical features of female and male humans. These models have had body hair and male facial hair removed and head hair trimmed.
+
+Human body types vary substantially. Although body size is largely determined by genes, it is also significantly influenced by environmental factors such as diet and exercise. The average height of an adult human is about 1.5 to 1.8 m (5 to 6 feet) tall, although this varies significantly from place to place and depending on ethnic origin.[61] The average mass of an adult human is 54–64 kg (120–140 lbs) for females and 76–83 kg (168–183 lbs) for males.[62] Weight can also vary greatly (e.g. obesity). Unlike most other primates, humans are capable of fully bipedal locomotion, thus leaving their arms available for manipulating objects using their hands, aided especially by opposable thumbs.
+Vitruvian Man, Leonardo da Vinci's image is often used as an implied symbol of the essential symmetry of the human body, and by extension, of the universe as a whole.
+
+Although humans appear hairless compared to other primates, with notable hair growth occurring chiefly on the top of the head, underarms and pubic area, the average human has more hair follicles on his or her body than the average chimpanzee. The main distinction is that human hairs are shorter, finer, and less heavily pigmented than the average chimpanzee's, thus making them harder to see.[63]
+
+The hue of human skin and hair is determined by the presence of pigments called melanins. Human skin hues can range from dark brown to pale pink. Human hair ranges from white to brown to red to most commonly black.[64] This depends on the amount of melanin (an effective sun blocking pigment) in the skin and hair, with hair melanin concentrations in hair fading with increased age, leading to grey or even white hair. Most researchers believe that skin darkening was an adaptation that evolved as a protection against ultraviolet solar radiation. However, more recently it has been argued that particular skin colors are an adaptation to balance folate, which is destroyed by ultraviolet radiation, and vitamin D, which requires sunlight to form.[65] The skin pigmentation of contemporary humans is geographically stratified, and in general correlates with the level of ultraviolet radiation. Human skin also has a capacity to darken (sun tanning) in response to exposure to ultraviolet radiation.[66][67] Humans tend to be physically weaker than other similarly sized primates, with young, conditioned male humans having been shown to be unable to match the strength of female orangutans, which are at least three times stronger.[68]
+
+The construction of the human pelvis differs from other primates, as do the toes. As a result, humans are slower for short distances than most other animals, but are among the best long-distance runners in the animal kingdom.[69] Humans' thinner body hair and more productive sweat glands also help avoid heat exhaustion while running for long distances. For this reason persistence hunting was most likely a very successful strategy for early humans – in this method, prey is chased until it is literally exhausted. This may have also helped the early human Cro-Magnon population out-compete the Neanderthal population for food. The otherwise physically stronger Neanderthal would have much greater difficulty hunting in this way, and much more likely hunted larger game in close quarters. A trade-off for these advantages of the modern human pelvis is that childbirth is more difficult and dangerous.
+
+The construction of modern human shoulders enabled throwing weapons, which also were much more difficult or even impossible for Neanderthal competitors to use effectively.[70]
+Constituents of the human body in a person weighing 60 kg[71] Constituent 	Weight 	Weight
+percentage 	Percentage
+of atoms
+Oxygen 	38.8 kg 	65 % 	25.5 %
+Carbon 	10.9 kg 	18 % 	9.5 %
+Hydrogen 	6.0 kg 	10 % 	63.0 %
+Nitrogen 	1.9 kg 	3 % 	1.4 %
+Other 	2.4 kg 	4 % 	0.6 %
+
+The dental formula of Humans is the following: Upper: 2.1.2.3, lower: 2.1.2.3. Humans have proportionately shorter palates and much smaller teeth than other primates. They are the only primates to have short, relatively flush canine teeth. Humans have characteristically crowded teeth, with gaps from lost teeth usually closing up quickly in young individuals. Humans are gradually losing their wisdom teeth, with some individuals having them congenitally absent.[72]
+Physiology
+Main article: Human physiology
+
+Human physiology is the science of the mechanical, physical, and biochemical functions of humans in good health, their organs, and the cells of which they are composed. The principal level of focus of physiology is at the level of organs and systems. Most aspects of human physiology are closely homologous to corresponding aspects of animal physiology, and animal experimentation has provided much of the foundation of physiological knowledge. Anatomy and physiology are closely related fields of study: anatomy, the study of form, and physiology, the study of function, are intrinsically tied and are studied in tandem as part of a medical curriculum.
+Genetics
+Main article: Human genetics
+
+Humans are a eukaryotic species. Each diploid cell has two sets of 23 chromosomes, each set received from one parent. There are 22 pairs of autosomes and one pair of sex chromosomes. By present estimates, humans have approximately 22,000 genes.[73] Like other mammals, humans have an XY sex-determination system, so that females have the sex chromosomes XX and males have XY. The X chromosome carries many genes not on the Y chromosome, which means that recessive diseases associated with X-linked genes, such as hemophilia, affect men more often than women.
+Life cycle
+A 10 mm human embryo at 5 weeks
+
+As with other mammals, human reproduction takes place as internal fertilization by sexual intercourse. During this process, the erect penis of the male is inserted into the female's vagina until the male ejaculates semen, which contains sperm. The sperm travels through the vagina and cervix into the uterus or Fallopian tubes for fertilization of the ovum. Upon fertilization and implantation, gestation then occurs within the female's uterus.
+
+The zygote divides inside the female's uterus to become an embryo, which over a period of thirty-eight weeks (9 months) of gestation becomes a fetus. After this span of time, the fully grown fetus is birthed from the woman's body and breathes independently as an infant for the first time. At this point, most modern cultures recognize the baby as a person entitled to the full protection of the law, though some jurisdictions extend various levels of personhood earlier to human fetuses while they remain in the uterus.
+
+Compared with other species, human childbirth is dangerous. Painful labors lasting twenty-four hours or more are not uncommon and sometimes lead to the death of the mother, or the child.[74] This is because of both the relatively large fetal head circumference (for housing the brain) and the mother's relatively narrow pelvis (a trait required for successful bipedalism, by way of natural selection).[75][76] The chances of a successful labor increased significantly during the 20th century in wealthier countries with the advent of new medical technologies. In contrast, pregnancy and natural childbirth remain hazardous ordeals in developing regions of the world, with maternal death rates approximately 100 times greater than in developed countries.[77]
+
+In developed countries, infants are typically 3–4 kg (6–9 pounds) in weight and 50–60 cm (20–24 inches) in height at birth.[78] However, low birth weight is common in developing countries, and contributes to the high levels of infant mortality in these regions.[79] Helpless at birth, humans continue to grow for some years, typically reaching sexual maturity at 12 to 15 years of age. Females continue to develop physically until around the age of 18, whereas male development continues until around age 21. The human life span can be split into a number of stages: infancy, childhood, adolescence, young adulthood, adulthood and old age. The lengths of these stages, however, have varied across cultures and time periods. Compared to other primates, humans experience an unusually rapid growth spurt during adolescence, where the body grows 25% in size. Chimpanzees, for example, grow only 14%, with no pronounced spurt.[80] The presence of the growth spurt is probably necessary to keep children physically small until they are psychologically mature. Humans are one of the few species in which females undergo menopause. It has been proposed that menopause increases a woman's overall reproductive success by allowing her to invest more time and resources in her existing offspring and/or their children (the grandmother hypothesis), rather than by continuing to bear children into old age.[81][82]
+
+There are significant differences in life expectancy around the world. The developed world is generally aging, with the median age around 40 years. In the developing world the median age is between 15 and 20 years. Life expectancy at birth in Hong Kong is 84.8 years for a female and 78.9 for a male, while in Swaziland, primarily because of AIDS, it is 31.3 years for both sexes.[83] While one in five Europeans is 60 years of age or older, only one in twenty Africans is 60 years of age or older.[84] The number of centenarians (humans of age 100 years or older) in the world was estimated by the United Nations at 210,000 in 2002.[85] At least one person, Jeanne Calment, is known to have reached the age of 122 years;[86] higher ages have been claimed but they are not well substantiated. Worldwide, there are 81 men aged 60 or older for every 100 women of that age group, and among the oldest, there are 53 men for every 100 women.
+
+    A selection of different humans at various stages of the human life cycle
+
+    Girl (before puberty)
+
+    Woman of reproductive age
+
+    Older woman (after menopause)
+
+    Boy (before puberty)
+
+    Adult man
+
+    Elderly man
+
+Diet
+Main article: Human nutrition
+
+Humans are omnivorous, capable of consuming a wide variety of plant and animal material.[87][88] Varying with available food sources in regions of habitation, and also varying with cultural and religious norms, human groups have adopted a range of diets, from purely vegetarian to primarily carnivorous. In some cases, dietary restrictions in humans can lead to deficiency diseases; however, stable human groups have adapted to many dietary patterns through both genetic specialization and cultural conventions to use nutritionally balanced food sources.[89] The human diet is prominently reflected in human culture, and has led to the development of food science.
+
+Until the development of agriculture approximately 10,000 years ago, Homo sapiens employed a hunter-gatherer method as their sole means of food collection. This involved combining stationary food sources (such as fruits, grains, tubers, and mushrooms, insect larvae and aquatic mollusks) with wild game, which must be hunted and killed in order to be consumed.[90] It has been proposed that members of H. sapiens have used fire to prepare and cook food since the time of their divergence from Homo rhodesiensis (which itself had previously speciated from Homo erectus).[91] Around ten thousand years ago, humans developed agriculture,[92] which substantially altered their diet. This change in diet may also have altered human biology; with the spread of dairy farming providing a new and rich source of food, leading to the evolution of the ability to digest lactose in some adults.[93][94] Agriculture led to increased populations, the development of cities, and because of increased population density, the wider spread of infectious diseases. The types of food consumed, and the way in which they are prepared, has varied widely by time, location, and culture.
+
+In general, humans can survive for two to eight weeks without food, depending on stored body fat. Survival without water is usually limited to three or four days. About 36 million humans die every year from causes directly or indirectly related to hunger.[95] Childhood malnutrition is also common and contributes to the global burden of disease.[96] However global food distribution is not even, and obesity among some human populations has increased rapidly, leading to health complications and increased mortality in some developed, and a few developing countries. Worldwide over one billion people are obese,[97] while in the United States 35% of people are obese, leading to this being described as an "obesity epidemic".[98] Obesity is caused by consuming more calories than are expended, so excessive weight gain is usually caused by a combination of an energy-dense high fat diet and insufficient exercise.[97]
+Sleep
+Main article: Sleep
+
+Humans are generally diurnal. The average sleep requirement is between seven and nine hours per day for an adult and nine to ten hours per day for a child; elderly people usually sleep for six to seven hours. Experiencing less sleep than this is common in modern societies; this sleep deprivation can have negative effects. A sustained restriction of adult sleep to four hours per day has been shown to correlate with changes in physiology and mental state, including fatigue, aggression, and bodily discomfort.[99]
+Biological variation
+Main article: Human genetic variation
+
+Most current genetic and archaeological evidence supports a recent single origin of modern humans in East Africa[100] with first migrations placed at 60,000 years ago. Current genetic studies have demonstrated that humans on the African continent are the most genetically diverse.[101] However, compared to the other great apes, human gene sequences are remarkably homogeneous.[102]
+
+Nonetheless, there is important biological variation in the human species - with traits such as skin color, eye color, hair color and texture, height and built, and cranial features varying clinally across the globe. Those aspects of genetic variation that gives clue to human evolutionary history, or which are relevant for medical research have received particular attention. For example the genes that cause adult humans to be able to digest lactose are present in high frequencies in population that have long histories of cattle domestication, suggesting natural selection having favored that gene in populations that depend on cow milk. Some hereditary diseases such as Sickle cell anemia are frequent in populations from areas in which Malaria has been endemic throughout history - it is believed that the same gene that causes increased resistance to Malaria among those who are unaffected carriers of the gene. Similarly populations that have inhabited specific climates such as arctic or tropical regions or high altitudes, tend to have developed specific phenotypes that are beneficial for conserving energy in those environments - short stature and stocky built in cold regions, tall and lanky in hot regions and with high lung capacities in high altitudes. Similarly variation in skincolor varies clinally with darker colors around the equator where the added protection from the sun is thought to gives an evolutionary advantage, and lighter skin tones closer to the poles where there is less sunlight and the lighter colored skin improves Vitamin D synthesis.
+
+Today it is possible to determine, by genetic analysis, the geographic ancestry of a person and the degree of ancestry from each region. Such analyses can pinpoint the migrational history of a persons ancestors with a high degree of accuracy. Often, due to practices of group endogamy, allele frequencies cluster locally around kin groups and and lineages, or by national, cultural or linguistic boundaries, giving a detailed degree of correlation between genetic clusters and population groups when considering many alleles simultaneously.
+
+Psychology
+Main article: Psychology
+Further information: Human brain and Mind
+
+The human brain, the focal point of the central nervous system in humans, controls the peripheral nervous system. In addition to controlling "lower", involuntary, or primarily autonomic activities such as respiration and digestion, it is also the locus of "higher" order functioning such as thought, reasoning, and abstraction.[119] These cognitive processes constitute the mind, and, along with their behavioral consequences, are studied in the field of psychology.
+
+Generally regarded as more capable of these higher order activities, the human brain is believed to be more "intelligent" in general than that of any other known species. While some non-human species are capable of creating structures and using simple tools—mostly through instinct and mimicry—human technology is vastly more complex, and is constantly evolving and improving through time.
+
+Although humans are vastly more advanced than many species in cognitive abilities, most of these abilities are known in primitive form among other species. Modern anthropology has tended to bear out Darwin's proposition that "the difference in mind between man and the higher animals, great as it is, certainly is one of degree and not of kind".[120]
+Consciousness and thought
+Main articles: Consciousness and Cognition
+
+Humans are one of only several species known to pass the mirror test.[121] Most human children will pass the mirror test at 18 months old.[122] However, the usefulness of this test as a true test of consciousness has been disputed, and this may be a matter of degree rather than a sharp divide. Monkeys have been trained to apply abstract rules in tasks.[123]
+
+The human brain perceives the external world through the senses, and each individual human is influenced greatly by his or her experiences, leading to subjective views of existence and the passage of time. Humans are variously said to possess consciousness, self-awareness, and a mind, which correspond roughly to the mental processes of thought. These are said to possess qualities such as self-awareness, sentience, sapience, and the ability to perceive the relationship between oneself and one's environment. The extent to which the mind constructs or experiences the outer world is a matter of debate, as are the definitions and validity of many of the terms used above. The philosopher of cognitive science Daniel Dennett, for example, argues that there is no such thing as a narrative center called the "mind", but that instead there is simply a collection of sensory inputs and outputs: different kinds of "software" running in parallel.[124] Psychologist B.F. Skinner argued that the mind is an explanatory fiction that diverts attention from environmental causes of behavior,[125] and that what are commonly seen as mental processes may be better conceived of as forms of covert verbal behavior.[126][127]
+
+Humans study the more physical aspects of the mind and brain, and by extension of the nervous system, in the field of neurology, the more behavioral in the field of psychology, and a sometimes loosely defined area between in the field of psychiatry, which treats mental illness and behavioral disorders. Psychology does not necessarily refer to the brain or nervous system, and can be framed purely in terms of phenomenological or information processing theories of the mind. Increasingly, however, an understanding of brain functions is being included in psychological theory and practice, particularly in areas such as artificial intelligence, neuropsychology, and cognitive neuroscience.
+
+The nature of thought is central to psychology and related fields. Cognitive psychology studies cognition, the mental processes' underlying behavior. It uses information processing as a framework for understanding the mind. Perception, learning, problem solving, memory, attention, language and emotion are all well researched areas as well. Cognitive psychology is associated with a school of thought known as cognitivism, whose adherents argue for an information processing model of mental function, informed by positivism and experimental psychology. Techniques and models from cognitive psychology are widely applied and form the mainstay of psychological theories in many areas of both research and applied psychology. Largely focusing on the development of the human mind through the life span, developmental psychology seeks to understand how people come to perceive, understand, and act within the world and how these processes change as they age. This may focus on intellectual, cognitive, neural, social, or moral development.
+
+Some philosophers divide consciousness into phenomenal consciousness, which is experience itself, and access consciousness, which is the processing of the things in experience.[128] Phenomenal consciousness is the state of being conscious, such as when they say "I am conscious." Access consciousness is being conscious of something in relation to abstract concepts, such as when one says "I am conscious of these words." Various forms of access consciousness include awareness, self-awareness, conscience, stream of consciousness, Husserl's phenomenology, and intentionality. The concept of phenomenal consciousness, in modern history, according to some, is closely related to the concept of qualia. Social psychology links sociology with psychology in their shared study of the nature and causes of human social interaction, with an emphasis on how people think towards each other and how they relate to each other. The behavior and mental processes, both human and non-human, can be described through animal cognition, ethology, evolutionary psychology, and comparative psychology as well. Human ecology is an academic discipline that investigates how humans and human societies interact with both their natural environment and the human social environment.
+Motivation and emotion
+Main articles: Motivation and Emotion
+
+Motivation is the driving force of desire behind all deliberate actions of humans. Motivation is based on emotion—specifically, on the search for satisfaction (positive emotional experiences), and the avoidance of conflict. Positive and negative is defined by the individual brain state, which may be influenced by social norms: a person may be driven to self-injury or violence because his brain is conditioned to create a positive response to these actions. Motivation is important because it is involved in the performance of all learned responses. Within psychology, conflict avoidance and the libido are seen to be primary motivators. Within economics, motivation is often seen to be based on incentives; these may be financial, moral, or coercive. Religions generally posit divine or demonic influences.
+
+Happiness, or the state of being happy, is a human emotional condition. The definition of happiness is a common philosophical topic. Some people might define it as the best condition that a human can have—a condition of mental and physical health. Others define it as freedom from want and distress; consciousness of the good order of things; assurance of one's place in the universe or society.
+
+Emotion has a significant influence on, or can even be said to control, human behavior, though historically many cultures and philosophers have for various reasons discouraged allowing this influence to go unchecked. Emotional experiences perceived as pleasant, such as love, admiration, or joy, contrast with those perceived as unpleasant, like hate, envy, or sorrow. There is often a distinction made between refined emotions that are socially learned and survival oriented emotions, which are thought to be innate. Human exploration of emotions as separate from other neurological phenomena is worthy of note, particularly in cultures where emotion is considered separate from physiological state. In some cultural medical theories emotion is considered so synonymous with certain forms of physical health that no difference is thought to exist. The Stoics believed excessive emotion was harmful, while some Sufi teachers felt certain extreme emotions could yield a conceptual perfection, what is often translated as ecstasy.
+
+In modern scientific thought, certain refined emotions are considered a complex neural trait innate in a variety of domesticated and non-domesticated mammals. These were commonly developed in reaction to superior survival mechanisms and intelligent interaction with each other and the environment; as such, refined emotion is not in all cases as discrete and separate from natural neural function as was once assumed. However, when humans function in civilized tandem, it has been noted that uninhibited acting on extreme emotion can lead to social disorder and crime.
+Society and culture
+Human society statistics
+World population 	7 billion
+Population density[citation needed] 	12.7 per km² (4.9 mi²) by total area
+43.6 per km² (16.8 mi²) by land area
+Largest agglomerations[citation needed] 	Beijing, Bogotá, Buenos Aires, Cairo, Delhi, Dhaka, Guangzhou, Istanbul, Jakarta, Karachi, Kinshasa, Kolkata, Lagos, Lima, London, Los Angeles, Manila, Mexico City, Moscow, Mumbai, New York City, Osaka, Paris, Rio de Janeiro, São Paulo, Seoul, Shanghai, Shenzhen, Tehran, Tianjin, Tokyo, Wuhan
+Most widely spoken languages[129] 	Mandarin Chinese, English, Spanish, Arabic, Hindi, Bengali, Portuguese, Russian, Japanese, German, Javanese, Punjabi, Telugu, Vietnamese, French, Marathi, Turkish, Korean, Tamil, Italian, Urdu, Indonesian
+Most popular religions[130] 	Christianity, Islam, Hinduism, Buddhism, Sikhism, Judaism, Baha'i
+GDP (nominal)[citation needed] 	$36,356,240 million USD
+($5,797 USD per capita)
+GDP (PPP)[citation needed] 	$51,656,251 million IND
+($8,236 per capita)
+Main articles: Culture and Society
+
+Humans are social beings. In comparisons with animalia, humans are regarded like the primates for their social qualities. But beyond any other creature, humans are adept at utilizing systems of communication for self-expression, the exchange of ideas, and organization, and as such have created complex social structures composed of many cooperating and competing groups. Human groups range from families to nations. Social interactions between humans have established an extremely wide variety of values, social norms, and rituals, which together form the basis of human society.
+
+Culture is defined here as patterns of complex symbolic behavior, i.e. all behavior that is not innate but which has to be learned through social interaction with others; such as the use of distinctive material and symbolic systems, including language, ritual, social organization, traditions, beliefs and technology.
+Ethnicity
+
+Ethnic groups are defined by linguistic, cultural, ancestral, national or regional ties. Identification with an ethnic group is usually based on kinship and descent. Race and ethnicity are among major factors in social identity giving rise to various forms of identity politics, for example racism.
+Sexuality and love
+Main articles: Love and Human sexuality
+
+Human sexuality, besides ensuring biological reproduction, has important social functions: it creates physical intimacy, bonds, and hierarchies among individuals; and in a hedonistic sense to the enjoyment of activity involving sexual gratification. Sexual desire, or libido, is experienced as a bodily urge, often accompanied by strong emotions such as love, ecstasy, and jealousy. The extreme importance of sexuality in the human species can be seen in a number of physical features, among them hidden ovulation, the evolution of external scrotum and penis suggesting sperm competition, the absence of an os penis, permanent secondary sexual characteristics, the forming of pair bonds based on sexual attraction as a common social structure and sexual ability in females outside of ovulation–human females do not have a distinct or visible estrus. These adaptations indicate that the importance of sexuality in humans is on a par with that found in the Bonobo, and that the complex human sexual behavior has a long evolutionary history.[131]
+
+Human choices in acting on sexuality are commonly influenced by cultural norms, which vary widely. Restrictions are often determined by religious beliefs or social customs. The pioneering researcher Sigmund Freud believed that humans are born polymorphously perverse, which means that any number of objects could be a source of pleasure. According to Freud, humans then pass through five stages of psychosexual development (and can fixate on any stage because of various traumas during the process). For Alfred Kinsey, another influential sex researcher, people can fall anywhere along a continuous scale of sexual orientation (with only small minorities fully heterosexual or homosexual). Recent studies of neurology and genetics suggest people may be born predisposed to various sexual tendencies.[132][133]
+Gender roles
+Main article: Gender role
+See also: Gender
+
+The sexual division of humans into male and female has been marked culturally by a corresponding division of roles, norms, practices, dress, behavior, rights, duties, privileges, status, and power. Cultural differences by gender have often been believed to have arisen naturally out of a division of reproductive labor; the biological fact that women give birth led to their further cultural responsibility for nurturing and caring for children. Gender roles have varied historically, and challenges to predominant gender norms have recurred in many societies.
+Society, government, and politics
+The United Nations complex in New York City, which houses one of the largest political organizations in the world
+Main articles: Society, Government, Politics, and State (polity)
+
+Society is the system of organizations and institutions arising from interaction between humans. A state is an organized political community occupying a definite territory, having an organized government, and possessing internal and external sovereignty. Recognition of the state's claim to independence by other states, enabling it to enter into international agreements, is often important to the establishment of its statehood. The "state" can also be defined in terms of domestic conditions, specifically, as conceptualized by Max Weber, "a state is a human community that (successfully) claims the monopoly of the 'legitimate' use of physical force within a given territory."[134]
+
+Government can be defined as the political means of creating and enforcing laws; typically via a bureaucratic hierarchy. Politics is the process by which decisions are made within groups; this process often involves conflict as well as compromise. Although the term is generally applied to behavior within governments, politics is also observed in all human group interactions, including corporate, academic, and religious institutions. Many different political systems exist, as do many different ways of understanding them, and many definitions overlap. Examples of governments include monarchy, Communist state, military dictatorship, theocracy, and liberal democracy, the last of which is considered dominant today. All of these issues have a direct relationship with economics.
+Trade and economics
+Main articles: Trade and Economics
+Buyers and sellers bargaining in a market
+
+Trade is the voluntary exchange of goods and services, and is a form of economics. A mechanism that allows trade is called a market. The original form of trade was barter, the direct exchange of goods and services. Modern traders instead generally negotiate through a medium of exchange, such as money. As a result, buying can be separated from selling, or earning. The invention of money (and later credit, paper money and non-physical money) greatly simplified and promoted trade. Because of specialization and division of labor, most people concentrate on a small aspect of manufacturing or service, trading their labor for products. Trade exists between regions because different regions have an absolute or comparative advantage in the production of some tradable commodity, or because different regions' size allows for the benefits of mass production.
+
+Economics is a social science which studies the production, distribution, trade, and consumption of goods and services. Economics focuses on measurable variables, and is broadly divided into two main branches: microeconomics, which deals with individual agents, such as households and businesses, and macroeconomics, which considers the economy as a whole, in which case it considers aggregate supply and demand for money, capital and commodities. Aspects receiving particular attention in economics are resource allocation, production, distribution, trade, and competition. Economic logic is increasingly applied to any problem that involves choice under scarcity or determining economic value.
+War
+Main article: War
+
+War is a state of widespread conflict between states or other large groups of humans, which is characterized by the use of lethal violence between combatants and/or upon civilians. (Humans also engage in lesser conflicts, such as brawls, riots, revolts, and melees. A revolution may or may not involve warfare.) It is estimated that during the 20th century between 167 and 188 million humans died as a result of war.[135] A common perception of war is a series of military campaigns between at least two opposing sides involving a dispute over sovereignty, territory, resources, religion, or other issues. A war between internal elements of a state is a civil war.
+
+There have been a wide variety of rapidly advancing tactics throughout the history of war, ranging from conventional war to asymmetric warfare to total war and unconventional warfare. Techniques include hand to hand combat, the use of ranged weapons, Naval warfare, and, more recently, air support. Military intelligence has often played a key role in determining victory and defeat. Propaganda, which often includes information, slanted opinion and disinformation, plays a key role in maintaining unity within a warring group, and/or sowing discord among opponents. In modern warfare, soldiers and combat vehicles are used to control the land, warships the sea, and aircraft the sky. These fields have also overlapped in the forms of marines, paratroopers, naval aircraft carriers, and surface-to-air missiles, among others. Satellites in low Earth orbit have made outer space a factor in warfare as well as it is used for detailed intelligence gathering, however no known aggressive actions have been taken from space.
+Material culture and technology
+Main articles: Tool and Technology
+An archaic Acheulean stone tool
+
+Stone tools were used by proto-humans at least 2.5 million years ago.[136] The controlled use of fire began around 1.5 million years ago. Since then, humans have made major advances, developing complex technology to create tools to aid their lives and allowing for other advancements in culture. Major leaps in technology include the discovery of agriculture – what is known as the Neolithic Revolution, and the invention of automated machines in the Industrial Revolution.
+
+Archaeology attempts to tell the story of past or lost cultures in part by close examination of the artifacts they produced. Early humans left stone tools, pottery, and jewelry that are particular to various regions and times.
+Clothing, adornments, hair trimming, and body modifications
+Main articles: Clothing, Body modification, and Haircut
+
+Throughout their history humans have altered their appearance by wearing clothing [137][138]and adornments, by trimming or shaving hair or by means of body modifications.
+
+Body modification is the deliberate altering of the human body for any non-medical reason, such as aesthetics, sexual enhancement, a rite of passage, religious reasons, to display group membership or affiliation, to create body art, shock value, or self expression.[139] In its most broad definition it includes plastic surgery, socially acceptable decoration (e.g., common ear piercing in many societies), and religious rites of passage (e.g., circumcision in a number of cultures).[139]
+Language
+Main article: Language
+
+The capacity humans have to transfer concepts, ideas and notions through speech (and recently, writing) is unrivaled in known species. Unlike the closed call systems of other primates in which sounds are unique and mutually exclusive, human language is open—an infinite number of meanings can be produced by combining a limited number of sounds and words. Human language has the quality of displacement, using words to represent things and happenings that are not presently or locally occurring, but elsewhere or at a different time.[72] Basic displacement may occur in other species, but is relatively elaborated in humans, allowing symbols and language to refer to abstract or even purely imaginary states, and underpinning the complex symbolic culture of the species. The faculty of speech is a defining feature of humanity, possibly predating phylogenetic separation of the modern population. Language is central to the communication between humans, and to the sense of identity that unites nations, cultures and ethnic groups. The invention of writing systems at least five thousand years ago allowed the preservation of language on material objects, and was a major step in cultural evolution. The science of linguistics describes the structure of language and the relationship between languages. There are approximately six thousand different languages currently in use, including sign languages, and many thousands more that are considered extinct.[140]
+Religion and spirituality
+Main articles: Religion and Spirituality
+Religion and spirituality are important aspects of human cultures.
+Nsibidi script from Nigeria. A means of communication among the initiates of the Ekpe secret society.[141]
+
+Religion is generally defined as a belief system concerning the supernatural, sacred or divine, and practices, values, institutions and rituals associated with such belief. Some religions also have a moral code. The evolution and the history of the first religions have recently become areas of active scientific investigation.[142][143][144] However, in the course of its development, religion has taken on many forms that vary by culture and individual perspective. Some of the chief questions and issues religions are concerned with include life after death (commonly involving belief in an afterlife), the origin of life, the nature of the universe (religious cosmology) and its ultimate fate (eschatology), and what is moral or immoral. A common source for answers to these questions are beliefs in transcendent divine beings such as deities or a singular God, although not all religions are theistic. Spirituality, belief or involvement in matters of the soul or spirit, is one of the many different approaches humans take in trying to answer fundamental questions about humankind's place in the universe, the meaning of life, and the ideal way to live one's life. Though these topics have also been addressed by philosophy, and to some extent by science, spirituality is unique in that it focuses on mystical or supernatural concepts such as karma and God.
+
+Although the exact level of religiosity can be hard to measure,[145] a majority of humans professes some variety of religious or spiritual belief, although some are irreligious. Other humans have no religious beliefs or are atheists, scientific skeptics, agnostics or simply non-religious. Humanism is a philosophy which seeks to include all of humanity and all issues common to humans; it is usually non-religious. Additionally, although most religions and spiritual beliefs are clearly distinct from science on both a philosophical and methodological level, the two are not generally considered mutually exclusive; a majority of humans hold a mix of both scientific and religious views. The distinction between philosophy and religion, on the other hand, is at times less clear, and the two are linked in such fields as the philosophy of religion and theology.
+Philosophy and self-reflection
+Main articles: Philosophy and Human self-reflection
+See also: Human nature
+Statue of Confucius on Chongming Island in Shanghai
+
+Philosophy is a discipline or field of study involving the investigation, analysis, and development of ideas at a general, abstract, or fundamental level. It is the discipline searching for a general understanding of reality, reasoning and values. Major fields of philosophy include logic, metaphysics, epistemology, philosophy of mind, and axiology (which includes ethics and aesthetics). Philosophy covers a very wide range of approaches, and is used to refer to a worldview, to a perspective on an issue, or to the positions argued for by a particular philosopher or school of philosophy.
+Science and mathematics
+Main articles: Science and Mathematics
+
+Scientific approach and mathematics have been unique to humans.
+
+Mathematics is connected to language, and it is argued that this special genetic trait of humans, linked to language and abstract thought is responsible for the mathematical ability.
+
+Closely related is humans' ability to model the world and use science. Although scientific revolution is relatively recent, humans have attempted to explain their environment since the ancient times.
+Art, music, and literature
+Main articles: Art, Music, and Literature
+Allegory of Music (ca. 1594), a painting of a woman writing sheet music by Lorenzo Lippi
+
+Art is one of the most unusual aspects of human behavior and a cultural universal, and humans have been producing artistic works at least since the days of Cro Magnon. As a form of cultural expression by humans, art may be defined by the pursuit of diversity and the usage of narratives of liberation and exploration (i.e. art history, art criticism, and art theory) to mediate its boundaries. This distinction may be applied to objects or performances, current or historical, and its prestige extends to those who made, found, exhibit, or own them. In the modern use of the word, art is commonly understood to be the process or result of making material works that, from concept to creation, adhere to the "creative impulse" of human beings. Art is distinguished from other works by being in large part unprompted by necessity, by biological drive, or by any undisciplined pursuit of recreation.
+
+Music is a natural intuitive phenomenon based on the three distinct and interrelated organization structures of rhythm, harmony, and melody. Listening to music is perhaps the most common and universal form of entertainment for humans, while learning and understanding it are popular disciplines. There are a wide variety of music genres and ethnic musics. Literature, the body of written—and possibly oral—works, especially creative ones, includes prose, poetry and drama, both fiction and non-fiction. Literature includes such genres as epic, legend, myth, ballad, and folklore.
+See also
+Portal icon 	Mammals portal
+
+
+
+Dog
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+For other uses, see Dog (disambiguation).
+Page semi-protected
+Domestic dog
+Temporal range: 0.015–0 Ma
+Pre?
+?
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+?
+Pleistocene – Recent
+Yellow Labrador Retriever, the most registered breed of 2009 with the AKC
+More images of dogs.
+Conservation status
+Domesticated
+Scientific classification
+Kingdom: 	Animalia
+Phylum: 	Chordata
+Class: 	Mammalia
+Order: 	Carnivora
+Family: 	Canidae
+Genus: 	Canis
+Species: 	C. lupus
+Subspecies: 	C. l. familiaris[1]
+Trinomial name
+Canis lupus familiaris[2]
+Synonyms
+Species synonymy[show]
+
+The domestic dog (Canis lupus familiaris),[2][3] is a subspecies of the gray wolf (Canis lupus), a member of the Canidae family of the mammilian order Carnivora. The term "domestic dog" is generally used for both domesticated and feral varieties. The dog may have been the first animal to be domesticated, and has been the most widely kept working, hunting, and companion animal in human history. The word "dog" may also mean the male of a canine species,[4] as opposed to the word "bitch" for the female of the species.
+
+The present lineage of dogs was domesticated from gray wolves about 15,000 years ago.[5] Remains of domesticated dogs have been found in Siberia and Belgium from about 33,000 years ago. None of these early domestication lineages seem to have survived the Last Glacial Maximum. Although mDNA suggest a split between dogs and wolves around 100,000 years ago no specimens predate 33,000 years ago that are clearly morphologically domesticated dog.[6][7][8]
+
+Dogs' value to early human hunter-gatherers led to them quickly becoming ubiquitous across world cultures. Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship, and, more recently, aiding handicapped individuals. This impact on human society has given them the nickname "Man's Best Friend" in the Western world. In some cultures, dogs are also source of meat.[9][10] In 2001, there were estimated to be 400 million dogs in the world.[11]
+
+Most breeds of dogs are at most a few hundred years old, having been artificially selected for particular morphologies and behaviors by people for specific functional roles. Through this selective breeding, the dog has developed into hundreds of varied breeds, and shows more behavioral and morphological variation than any other land mammal.[12] For example, height measured to the withers ranges from a 2 inches (51 mm) in the Chihuahua to a 2 feet (0.61 m) in the Irish Wolfhound; color varies from white through grays (usually called "blue") to black, and browns from light (tan) to dark ("red" or "chocolate") in a wide variation of patterns; coats can be short or long, coarse-haired to wool-like, straight, curly, or smooth.[13] It is common for most breeds to shed this coat.
+Contents
+
+    1 Etymology and related terminology
+    2 Taxonomy
+    3 History and evolution
+        3.1 DNA studies
+    4 Roles with humans
+        4.1 Early roles
+        4.2 As pets
+        4.3 Work
+        4.4 Sports and shows
+        4.5 As a food source
+        4.6 Health risks to humans
+        4.7 Health benefits for humans
+        4.8 Shelters
+    5 Biology
+        5.1 Senses
+            5.1.1 Vision
+            5.1.2 Hearing
+            5.1.3 Smell
+        5.2 Physical characteristics
+            5.2.1 Coat
+            5.2.2 Tail
+        5.3 Types and breeds
+        5.4 Health
+            5.4.1 Mortality
+            5.4.2 Predation
+        5.5 Diet
+        5.6 Reproduction
+        5.7 Neutering
+    6 Intelligence and behavior
+        6.1 Intelligence
+        6.2 Behavior
+            6.2.1 Sleep
+        6.3 Dog growl
+    7 Differences from wolves
+        7.1 Physical characteristics
+        7.2 Behavior
+        7.3 Trainability
+    8 Mythology
+    9 Gallery of dogs in art
+    10 See also
+    11 References
+    12 Bibliography
+    13 External links
+
+Etymology and related terminology
+
+Dog is the common use term that refers to members of the subspecies Canis lupus familiaris (canis, "dog"; lupus, "wolf"; familiaris, "of a household" or "domestic"). The term can also be used to refer to a wider range of related species, such as the members of the genus Canis, or "true dogs", including the wolf, coyote, and jackals; or it can refer to the members of the tribe Canini, which would also include the African wild dog; or it can be used to refer to any member of the family Canidae, which would also include the foxes, bush dog, raccoon dog, and others.[14] Some members of the family have "dog" in their common names, such as the raccoon dog and the African wild dog. A few animals have "dog" in their common names but are not canids, such as the prairie dog.
+
+The English word dog comes from Middle English dogge, from Old English docga, a "powerful dog breed".[15] The term may derive from Proto-Germanic *dukkon, represented in Old English finger-docce ("finger-muscle").[16] The word also shows the familiar petname diminutive -ga also seen in frogga "frog", picga "pig", stagga "stag", wicga "beetle, worm", among others.[17] Due to the archaic structure of the word, the term dog may ultimately derive from the earliest layer of Proto-Indo-European vocabulary, reflecting the role of the dog as the earliest domesticated animal.[18]
+
+In 14th-century England, hound (from Old English: hund) was the general word for all domestic canines, and dog referred to a subtype of hound, a group including the mastiff. It is believed this "dog" type of "hound" was so common it eventually became the prototype of the category “hound”.[19] By the 16th century, dog had become the general word, and hound had begun to refer only to types used for hunting.[20] Hound, cognate to German Hund, Dutch hond, common Scandinavian hund, and Icelandic hundur, is ultimately derived from the Proto-Indo-European *kwon- "dog", found in Welsh ci (plural cwn), Latin canis, Greek kýon, Lithuanian šuõ.[21]
+
+In breeding circles, a male canine is referred to as a dog, while a female is called a bitch (Middle English bicche, from Old English bicce, ultimately from Old Norse bikkja). A group of offspring is a litter. The father of a litter is called the sire, and the mother is called the dam. Offspring are, in general, called pups or puppies, from French poupée, until they are about a year old. The process of birth is whelping, from the Old English word hwelp (cf. German Welpe, Dutch welp, Swedish valpa, Icelandic hvelpur).[22]
+Taxonomy
+
+In 1753, the father of modern biological taxonomy, Carl Linnaeus, listed among the types of quadruped familiar to him, the Latin word for dog, “Canis.” Among the species within this genus, Linnaeus listed the fox, as "Canis vulpes", wolves (Canis lupus), and the domestic dog, (Canis canis; see File:Linnaeus - Regnum Animale (1735).png).
+
+In later editions, Linnaeus dropped "Canis canis" and greatly expanded his list of the Canis genus of quadrupeds, and by 1758 included alongside the foxes, wolves, and jackels and many more terms that are now listed as synonyms for domestic dog, including ‘’aegyptius” (hairless dog), ‘’aquaticus’’, (water dog), and ‘’mustelinus’’ (literally “badger dog).” Among these were two that later experts have been widely used for domestic dogs as a species: ‘’Canis domesticus’’ and, most predominantly, ‘’Canis familiaris”, the “common” or “familiar” dog.[23]
+
+The domestic dog was accepted as a species in its own right until overwhelming evidence from behavior, vocalizations, morphology, and molecular biology led to the contemporary scientific understanding that a single species, the gray wolf, is the common ancestor for all breeds of domestic dogs.[24][25][26] In recognition of this fact, the domestic dog was reclassified in 1993 as Canis lupus familiaris, a subspecies of the gray wolf Canis lupus, by the Smithsonian Institution and the American Society of Mammalogists. Canis lupus familiaris is listed as the name for the taxon that is broadly used in the scientific community and recommended by ITIS although Canis familiaris, however, is a recognised synonym.[27]
+
+Since that time, domesticus and all taxa referring to domestic dogs or subspecies of dog listed by Linnaeus, Johann Friedrich Gmelin in 1792, and Christian Smith in 1839, lost their subspecies status and have been listed as taxonomic synonyms for Canis lupus familiaris [28]
+History and evolution
+Main articles: Origin of the domestic dog and Gray wolf
+Ancient Greek rhyton in the shape of a dog's head, made by Brygos, early 5th century BC. Jérôme Carcopino Museum, Department of Archaeology, Aleria
+
+Domestic dogs inherited complex behaviors from their wolf ancestors, which would have been pack hunters with complex body language. These sophisticated forms of social cognition and communication may account for their trainability, playfulness, and ability to fit into human households and social situations, and these attributes have given dogs a relationship with humans that has enabled them to become one of the most successful species on the planet today.[24]
+
+Although experts largely disagree over the details of dog domestication, it is agreed that human interaction played a significant role in shaping the subspecies.[29] Domestication may have occurred initially in separate areas particularly Siberia and Europe. Currently it is thought domestication of our current lineage of dog occurred sometime as early as 15,000 years ago and arguably as late as 8500 years ago. Shortly after the latest domestication, dogs became ubiquitous in human populations, and spread throughout the world.
+
+Emigrants from Siberia likely crossed the Bering Strait with dogs in their company, and some experts[who?] suggest the use of sled dogs may have been critical to the success of the waves that entered North America roughly 12,000 years ago,[citation needed] although the earliest archaeological evidence of dog-like canids in North America dates from about 9,000 years ago.[30] Dogs were an important part of life for the Athabascan population in North America, and were their only domesticated animal. Dogs also carried much of the load in the migration of the Apache and Navajo tribes 1,400 years ago. Use of dogs as pack animals in these cultures often persisted after the introduction of the horse to North America.[31][page needed]
+
+The current consensus among biologists and archaeologists is that the dating of first domestication is indeterminate,[29][31] although more recent evidence shows isolated domestication events as early as 33,000 years ago.[32][33] There is conclusive evidence the present lineage of dogs genetically diverged from their wolf ancestors at least 15,000 years ago,[5][34][35] but some believe domestication to have occurred earlier.[29] Evidence is accruing that there were previous domestication events, but that those lineages died out.[7]
+
+It is not known whether humans domesticated the wolf as such to initiate dog's divergence from its ancestors, or whether dog's evolutionary path had already taken a different course prior to domestication. For example, it is hypothesized that some wolves gathered around the campsites of paleolithic camps to scavenge refuse, and associated evolutionary pressure developed that favored those who were less frightened by, and keener in approaching, humans.
+Tesem, an old Egyptian sighthound-like dog.
+
+The bulk of the scientific evidence for the evolution of the domestic dog stems from morphological studies of archaeological findings and mitochondrial DNA studies. The divergence date of roughly 15,000 years ago is based in part on archaeological evidence that demonstrates the domestication of dogs occurred more than 15,000 years ago,[24][31] and some genetic evidence indicates the domestication of dogs from their wolf ancestors began in the late Upper Paleolithic close to the Pleistocene/Holocene boundary, between 17,000 and 14,000 years ago.[36] But there is a wide range of other, contradictory findings that make this issue controversial.[citation needed] There are findings beginning currently at 33,000 years ago distinctly placing them as domesticated dogs evidenced not only by shortening of the muzzle but widening as well as crowding of teeth.
+
+Archaeological evidence suggests the latest dogs could have diverged from wolves was roughly 15,000 years ago, although it is possible they diverged much earlier.[24] In 2008, a team of international scientists released findings from an excavation at Goyet Cave in Belgium declaring a large, toothy canine existed 31,700 years ago and ate a diet of horse, musk ox and reindeer.[37]
+
+Prior to this Belgian discovery, the earliest dog fossils were two large skulls from Russia and a mandible from Germany dated from roughly 14,000 years ago.[5][24] Remains of smaller dogs from Natufian cave deposits in the Middle East, including the earliest burial of a human being with a domestic dog, have been dated to around 10,000 to 12,000 years ago.[5][38] There is a great deal of archaeological evidence for dogs throughout Europe and Asia around this period and through the next two thousand years (roughly 8,000 to 10,000 years ago), with fossils uncovered in Germany, the French Alps, and Iraq, and cave paintings in Turkey.[24] The oldest remains of a domesticated dog in the Americas were found in Texas and have been dated to about 9,400 years ago.[39]
+DNA studies
+
+DNA studies have provided a wide range of possible divergence dates, from 15,000 to 40,000 years ago,[5] to as much as 100,000 to 140,000 years ago.[40] These results depend on a number of assumptions.[24] Genetic studies are based on comparisons of genetic diversity between species, and depend on a calibration date. Some estimates of divergence dates from DNA evidence use an estimated wolf-coyote divergence date of roughly 700,000 years ago as a calibration.[41] If this estimate is incorrect, and the actual wolf-coyote divergence is closer to one or two million years ago, or more,[42] then the DNA evidence that supports specific dog-wolf divergence dates would be interpreted very differently.
+
+Furthermore, it is believed the genetic diversity of wolves has been in decline for the last 200 years, and that the genetic diversity of dogs has been reduced by selective breeding. This could significantly bias DNA analyses to support an earlier divergence date. The genetic evidence for the domestication event occurring in East Asia is also subject to violations of assumptions. These conclusions are based on the location of maximal genetic divergence, and assume hybridization does not occur, and that breeds remain geographically localized. Although these assumptions hold for many species, there is good reason to believe that they do not hold for canines.[24]
+
+Genetic analyses indicate all dogs are likely descended from a handful of domestication events with a small number of founding females,[24][36] although there is evidence domesticated dogs interbred with local populations of wild wolves on several occasions.[5] Data suggest dogs first diverged from wolves in East Asia, and these domesticated dogs then quickly migrated throughout the world, reaching the North American continent around 8000 BC.[5] The oldest groups of dogs, which show the greatest genetic variability and are the most similar to their wolf ancestors, are primarily Asian and African breeds, including the Basenji, Lhasa Apso, and Siberian Husky.[43] Some breeds thought to be very old, such as the Pharaoh Hound, Ibizan Hound, and Norwegian Elkhound, are now known to have been created more recently.[43]
+
+There is a great deal of controversy surrounding the evolutionary framework for the domestication of dogs.[24] Although it is widely claimed that "man domesticated the wolf,"[44] man may not have taken such a proactive role in the process.[24] The nature of the interaction between man and wolf that led to domestication is unknown and controversial. At least three early species of the Homo genus began spreading out of Africa roughly 400,000 years ago, and thus lived for a considerable time in contact with canine species.[24]
+
+Despite this, there is no evidence of any adaptation of canine species to the presence of the close relatives of modern man. If dogs were domesticated, as believed, roughly 15,000 years ago, the event (or events) would have coincided with a large expansion in human territory and the development of agriculture. This has led some biologists to suggest one of the forces that led to the domestication of dogs was a shift in human lifestyle in the form of established human settlements. Permanent settlements would have coincided with a greater amount of disposable food and would have created a barrier between wild and anthropogenic canine populations.[24]
+Roles with humans
+A Siberian Husky used as a pack animal
+Early roles
+
+Wolves, and their dog descendants, would have derived significant benefits from living in human camps—more safety, more reliable food, lesser caloric needs, and more chance to breed.[45] They would have benefited from humans’ upright gait that gives them larger range over which to see potential predators and prey, as well as color vision that, at least by day, gives humans better visual discrimination.[45] Camp dogs would also have benefitted from human tool use, as in bringing down larger prey and controlling fire for a range of purposes.[45]
+
+Humans would also have derived enormous benefit from the dogs associated with their camps.[46] For instance, dogs would have improved sanitation by cleaning up food scraps.[46] Dogs may have provided warmth, as referred to in the Australian Aboriginal expression “three dog night” (an exceptionally cold night), and they would have alerted the camp to the presence of predators or strangers, using their acute hearing to provide an early warning.[46]
+
+Anthropologists believe the most significant benefit would have been the use of dogs' sensitive sense of smell to assist with the hunt.[46] The relationship between the presence of a dog and success in the hunt is often mentioned as a primary reason for the domestication of the wolf, and a 2004 study of hunter groups with and without a dog gives quantitative support to the hypothesis that the benefits of cooperative hunting was an important factor in wolf domestication.[47]
+
+The cohabitation of dogs and humans would have greatly improved the chances of survival for early human groups, and the domestication of dogs may have been one of the key forces that led to human success.[48]
+Couple sitting on the lawn with a pet British Bulldog
+A British Bulldog shares a day at the park.
+As pets
+
+"The most widespread form of interspecies bonding occurs between humans and dogs"[46] and the keeping of dogs as companions, particularly by elites, has a long history.[49] However, pet dog populations grew significantly after World War II as suburbanization increased.[49] In the 1950s and 1960s, dogs were kept outside more often than they tend to be today [50] (using the expression “in the doghouse” to describe exclusion from the group signifies the distance between the doghouse and the home) and were still primarily functional, acting as a guard, children’s playmate, or walking companion. From the 1980s, there have been changes in the role of the pet dog, such as the increased role of dogs in the emotional support of their owners.[51] People and dogs have become increasingly integrated and implicated in each other’s lives,[52] to the point where pet dogs actively shape the way a family and home are experienced.[53]
+
+There have been two major trends in the changing status of pet dogs. The first has been the ‘commodification’ of the dog, shaping it to conform to human expectations of personality and behaviour.[53] The second has been the broadening of the concept of the family and the home to include dogs-as-dogs within everyday routines and practices.[53]
+
+There are a vast range of commodity forms available to transform a pet dog into an ideal companion.[54] The list of goods, services and places available is enormous: from dog perfumes, couture, furniture and housing, to dog groomers, therapists, trainers and care-takers, dog cafes, spas, parks and beaches, and dog hotels, airlines and cemeteries.[54] While dog training as an organized activity can be traced back to the 18th century, in the last decades of the 20th century it became a high profile issue as many normal dog behaviors such as barking, jumping up, digging, rolling in dung, fighting, and urine marking became increasingly incompatible with the new role of a pet dog.[55] Dog training books, classes and television programs proliferated as the process of commodifying the pet dog continued.[56]
+An Australian Cattle Dog in reindeer antlers sits on Santa's lap
+A pet dog taking part in Christmas traditions
+
+The majority of contemporary dog owners describe their dog as part of the family,[53] although some ambivalence about the relationship is evident in the popular reconceptualisation of the dog-human family as a pack.[53] A dominance model of dog-human relationships has been promoted by some dog trainers, such as on the television program Dog Whisperer. However it has been disputed that "trying to achieve status" is characteristic of dog–human interactions.[57] Pet dogs play an active role in family life; for example, a study of conversations in dog-human families showed how family members use the dog as a resource, talking to the dog, or talking through the dog, to mediate their interactions with each other.[58]
+
+Another study of dogs’ roles in families showed many dogs have set tasks or routines undertaken as family members, the most common of which was helping with the washing-up by licking the plates in the dishwasher, and bringing in the newspaper from the lawn.[53] Increasingly, human family members are engaging in activities centred on the perceived needs and interests of the dog, or in which the dog is an integral partner, such as Dog Dancing and Doga.[54]
+
+According to the statistics published by the American Pet Products Manufacturers Association in the National Pet Owner Survey in 2009–2010, it is estimated there are 77.5 million dog owners in the United States.[59] The same survey shows nearly 40% of American households own at least one dog, of which 67% own just one dog, 25% two dogs and nearly 9% more than two dogs. There does not seem to be any gender preference among dogs as pets, as the statistical data reveal an equal number of female and male dog pets. Yet, although several programs are undergoing to promote pet adoption, less than a fifth of the owned dogs come from a shelter.
+Work
+
+Dogs have lived and worked with humans in so many roles that they have earned the unique nickname, "man's best friend",[60] a phrase used in other languages as well. They have been bred for herding livestock,[61] hunting (e.g. pointers and hounds),[62] rodent control,[3] guarding, helping fishermen with nets, detection dogs, and pulling loads, in addition to their roles as companions.[3]
+Book of the Hunt, Gaston III, Count of Foix, 1387–88.
+
+Service dogs such as guide dogs, utility dogs, assistance dogs, hearing dogs, and psychological therapy dogs provide assistance to individuals with physical or mental disabilities.[63][64] Some dogs owned by epileptics have been shown to alert their handler when the handler shows signs of an impending seizure, sometimes well in advance of onset, allowing the owner to seek safety, medication, or medical care.[65]
+
+Dogs included in human activities in terms of helping out humans are usually called working dogs. Dogs of several breeds are considered working dogs. Some working dog breeds include Akita, Alaskan Malamute, Anatolian Shepherd Dog, Bernese Mountain Dog, Black Russian Terrier, Boxer, Bullmastiff, Doberman Pinscher, Dogue de Bordeaux, German Pinscher, German Shepherd,[66] Giant Schnauzer, Great Dane, Great Pyrenees, Great Swiss Mountain Dog, Komondor, Kuvasz, Mastiff, Neapolitan Mastiff, Newfoundland, Portuguese Water Dog, Rottweiler, Saint Bernard, Samoyed, Siberian Husky, Standard Schnauzer, and Tibetan Mastiff.
+Sports and shows
+See also: Conformation show
+
+Owners of dogs often enter them in competitions[67] such as breed conformation shows or sports, including racing and sledding.
+
+In conformation shows, also referred to as breed shows, a judge familiar with the specific dog breed evaluates individual purebred dogs for conformity with their established breed type as described in the breed standard. As the breed standard only deals with the externally observable qualities of the dog (such as appearance, movement, and temperament), separately tested qualities (such as ability or health) are not part of the judging in conformation shows.
+As a food source
+See also: Dog meat
+Fried dog meat offered as speciality, among lamb and fish. Shaoyang, Hunan Province, China
+
+Dog meat is consumed in some East Asian countries, including Korea, China, and Vietnam, a practice that dates back to antiquity.[68] It is estimated that 13–16 million dogs are killed and consumed in Asia every year.[69] The BBC claims that, in 1999, more than 6,000 restaurants served soups made from dog meat in South Korea.[70] In Korea, the primary dog breed raised for meat, the nureongi (???), differs from those breeds raised for pets that Koreans may keep in their homes.[71]
+
+The most popular Korean dog dish is gaejang-guk (also called bosintang), a spicy stew meant to balance the body's heat during the summer months; followers of the custom claim this is done to ensure good health by balancing one's gi, or vital energy of the body. A 19th century version of gaejang-guk explains that the dish is prepared by boiling dog meat with scallions and chili powder. Variations of the dish contain chicken and bamboo shoots. While the dishes are still popular in Korea with a segment of the population, dog is not as widely consumed as beef, chicken, and pork.[72]
+
+Other cultures, such as Polynesia and pre-Columbian Mexico, also consumed dog meat in their history. However, Western, South Asian, African, and Middle Eastern cultures, in general, regard consumption of dog meat as taboo. In some places, however, such as in rural areas of Poland, dog fat is believed to have medicinal properties—being good for the lungs for instance.[73]
+
+A CNN report in China dated March 2010 interviews a dog meat vendor who states that most of the dogs that are available for selling to restaurant are raised in special farms but that there is always a chance that a sold dog is someone's lost pet, although dog pet breeds are not considered edible.[74]
+Health risks to humans
+
+In the United States, cats and dogs are a factor in more than 86,000 falls each year.[75] It has been estimated around 2% of dog-related injuries treated in UK hospitals are domestic accidents. The same study found that while dog involvement in road traffic accidents was difficult to quantify, dog-associated road accidents involving injury more commonly involved two-wheeled vehicles.[76]
+
+Toxocara canis (dog roundworm) eggs in dog feces can cause toxocariasis. In the United States, about 10,000 cases of Toxocara infection are reported in humans each year, and almost 14% of the U.S. population is infected.[77] In Great Britain, 24% of soil samples taken from public parks contained T. canis eggs.[78] Untreated toxocariasis can cause retinal damage and decreased vision.[78] Dog feces can also contain hookworms that cause cutaneous larva migrans in humans.[79][80][81][82]
+
+The incidence of dog bites, and especially fatal dog bites, is extremely rare in America considering the number of pet dogs in the country.[83] Fatalities from dog bites occur in America at the rate of one per four million dogs.[83] A Colorado study found bites in children were less severe than bites in adults.[84] The incidence of dog bites in the U.S. is 12.9 per 10,000 inhabitants, but for boys aged 5 to 9, the incidence rate is 60.7 per 10,000. Moreover, children have a much higher chance to be bitten in the face or neck.[85] Sharp claws with powerful muscles behind them can lacerate flesh in a scratch that can lead to serious infections.[86]
+
+In the UK between 2003 and 2004, there were 5,868 dog attacks on humans, resulting in 5,770 working days lost in sick leave.[87]
+Health benefits for humans
+Small dog laying between the hands
+A human cuddles a Doberman puppy.
+
+A growing body of research indicates the companionship of a dog can enhance human physical health and psychological wellbeing.[88] Dog and cat owners have been shown to have better mental and physical health than nonowners, making fewer visits to the doctor and being less likely to be on medication than nonowners.[89] In one study, new pet owners reported a highly significant reduction in minor health problems during the first month following pet acquisition, and this effect was sustained in dog owners through to the end of the study.[90]
+
+In addition, dog owners took considerably more physical exercise than cat owners and people without pets. The group without pets exhibited no statistically significant changes in health or behaviour. The results provide evidence that pet acquisition may have positive effects on human health and behaviour, and that for dog owners these effects are relatively long term.[90] Pet ownership has also been associated with increased coronary artery disease survival, with dog owners being significantly less likely to die within one year of an acute myocardial infarction than those who did not own dogs.[91]
+Gunnar Kaasen and Balto, the lead dog on the last relay team of the 1925 serum run to Nome.
+
+The health benefits of dogs can result from contact with dogs, not just from dog ownership. For example, when in the presence of a pet dog, people show reductions in cardiovascular, behavioral, and psychological indicators of anxiety.[92] The benefits of contact with a dog also include social support, as dogs are able to not only provide companionship and social support themselves, but also to act as facilitators of social interactions between humans.[93] One study indicated that wheelchair users experience more positive social interactions with strangers when they are accompanied by a dog than when they are not.[94]
+
+The practice of using dogs and other animals as a part of therapy dates back to the late 18th century, when animals were introduced into mental institutions to help socialize patients with mental disorders.[95] Animal-assisted intervention research has shown that animal-assisted therapy with a dog can increase a person with Alzheimer’s disease’s social behaviours, such as smiling and laughing.[96] One study demonstrated that children with ADHD and conduct disorders who participated in an education program with dogs and other animals showed increased attendance, increased knowledge and skill objectives, and decreased antisocial and violent behavior compared to those who were not in an animal-assisted program.[97]
+Shelters
+Main article: Animal shelter
+
+Every year, between 6 and 8 million dogs and cats enter US animal shelters.[98] The Humane Society of the United States (HSUS) estimates that approximately 3 to 4 million dogs and cats are euthanized yearly in shelters across the United States.[99] However, the percentage of dogs in US animal shelters that are eventually adopted and removed from the shelters by their new owners has increased since the mid 1990s from around 25% up to around 60–75% in the mid first decade of the 21st century.[100]
+
+Pets entering the shelters are euthanized in countries all over the world because of the lack of financial provisions to take care of these animals. Most shelters complain of not having enough resources to feed the pets and by being constrained to kill them, as the likelihood for all of them to find an owner is very small. In poor countries, euthanasia is usually violent.
+Biology
+Main article: Dog anatomy
+
+Domestic dogs have been selectively bred for millennia for various behaviors, sensory capabilities, and physical attributes.[3] Modern dog breeds show more variation in size, appearance, and behavior than any other domestic animal. Nevertheless, their morphology is based on that of their wild ancestors, gray wolves.[3] Dogs are predators and scavengers, and like many other predatory mammals, the dog has powerful muscles, fused wrist bones, a cardiovascular system that supports both sprinting and endurance, and teeth for catching and tearing.
+
+Dogs are highly variable in height and weight. The smallest known adult dog was a Yorkshire Terrier, that stood only 6.3 centimetres (2.5 in) at the shoulder, 9.5 cm (3.7 in) in length along the head-and-body, and weighed only 113 grams (4.0 oz). The largest known dog was an English Mastiff which weighed 155.6 kilograms (343 lb) and was 250 cm (98 in) from the snout to the tail.[101] The tallest dog is a Great Dane that stands 106.7 cm (42.0 in) at the shoulder.[102]
+Senses
+Vision
+Pekingese's large eyes
+
+Like most mammals, dogs are dichromats and have color vision equivalent to red-green color blindness in humans (deuteranopia).[103][104][105][106] Dogs are less sensitive to differences in grey shades than humans and also can detect brightness at about half the accuracy of humans.[107]
+
+The dog's visual system has evolved to aid proficient hunting.[103] While a dog's visual acuity is poor (that of a poodle's has been estimated to translate to a Snellen rating of 20/75[103]), their visual discrimination for moving objects is very high; dogs have been shown to be able to discriminate between humans (e.g., identifying their owner) at a range of between 800 and 900 m, however this range decreases to 500–600 m if the object is stationary.[103]
+
+Dogs have a temporal resolution of between 60 and 70 Hz, which explains why many dogs struggle to watch television, as most such modern screens are optimized for humans at 50–60 Hz.[107] Dogs can detect a change in movement that exists in a single diopter of space within their eye. Humans, by comparison, require a change of between 10 and 20 diopters to detect movement.[108][109]
+
+As crepuscular hunters, dogs often rely on their vision in low light situations: They have very large pupils, a high density of rods in the fovea, an increased flicker rate, and a tapetum lucidum.[103] The tapetum is a reflective surface behind the retina that reflects light to give the photoreceptors a second chance to catch the photons. There is also a relationship between body size and overall diameter of the eye. A range of 9.5 and 11.6 mm can be found between various breeds of dogs. This 20% variance can be substantial and is associated as an adaptation toward superior night vision.[110]
+
+The eyes of different breeds of dogs have different shapes, dimensions, and retina configurations.[111] Many long-nosed breeds have a "visual streak" – a wide foveal region that runs across the width of the retina and gives them a very wide field of excellent vision. Some long-muzzled breeds, in particular, the sighthounds, have a field of vision up to 270° (compared to 180° for humans). Short-nosed breeds, on the other hand, have an "area centralis": a central patch with up to three times the density of nerve endings as the visual streak, giving them detailed sight much more like a human's. Some broad-headed breeds with short noses have a field of vision similar to that of humans.[104][105]
+
+Most breeds have good vision, but some show a genetic predisposition for myopia – such as Rottweilers, with which one out of every two has been found to be myopic.[103] Dogs also have a greater divergence of the eye axis than humans, enabling them to rotate their pupils farther in any direction. The divergence of the eye axis of dogs ranges from 12–25° depending on the breed.[108]
+
+Experimentation has proven that dogs can distinguish between complex visual images such as that of a cube or a prism. Dogs also show attraction to static visual images such as the silhouette of a dog on a screen, their own reflections, or videos of dogs; however, their interest declines sharply once they are unable to make social contact with the image.[112]
+Hearing
+
+The frequency range of dog hearing is approximately 40 Hz to 60,000 Hz,[113] which means that dogs can detect sounds far beyond the upper limit of the human auditory spectrum.[105][113][114] In addition, dogs have ear mobility, which allows them to rapidly pinpoint the exact location of a sound.[115] Eighteen or more muscles can tilt, rotate, raise, or lower a dog's ear. A dog can identify a sound's location much faster than a human can, as well as hear sounds at four times the distance.[115]
+Smell
+The wet, textured nose of a dog
+
+While the human brain is dominated by a large visual cortex, the dog brain is dominated by an olfactory cortex.[103] The olfactory bulb in dogs is roughly forty times bigger than the olfactory bulb in humans, relative to total brain size, with 125 to 220 million smell-sensitive receptors.[103] The bloodhound exceeds this standard with nearly 300 million receptors.[103]
+
+Consequently, it has been estimated that dogs, in general, have an olfactory sense ranging from one hundred thousand to one million times more sensitive than a human's. In some dog breeds, such as bloodhounds, the olfactory sense may be up to 100 million times greater than a human's.[116] The wet nose is essential for determining the direction of the air current containing the smell. Cold receptors in the skin are sensitive to the cooling of the skin by evaporation of the moisture by air currents.[117]
+Physical characteristics
+Coat
+Main article: Coat (dog)
+A heavy winter coat with countershading in a mixed-breed dog
+
+The coats of domestic dogs are of two varieties: "double" being common with dogs (as well as wolves) originating from colder climates, made up of a coarse guard hair and a soft down hair, or "single", with the topcoat only.
+
+Domestic dogs often display the remnants of countershading, a common natural camouflage pattern. A countershaded animal will have dark coloring on its upper surfaces and light coloring below,[118] which reduces its general visibility. Thus, many breeds will have an occasional "blaze", stripe, or "star" of white fur on their chest or underside.[119]
+Tail
+See 

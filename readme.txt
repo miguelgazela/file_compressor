@@ -1,0 +1,3 @@
+- Para utilizar a aplicação corretamente, deve utilizar o Microsoft Visual Studio em Windows;
+- Para utilizar a opção 3 - Comparar algoritmos - junto com o executável, deve estar presente a pasta "WinCAL_comparative_analysis_files", que contém os ficheiros predefinidos para análise;
+- Estes ficheiros predefinidos foram projetados para serem usados pelo executável de Debug e não o de Release (este último comprime e descomprime os ficheiros muito rápido, invalidando a comparação dos tempos de execução dos algoritmos; ficheiros maiores implicariam uma análise muito lenta com o executável de Debug).
